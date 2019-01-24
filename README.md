@@ -3,6 +3,8 @@
 
 Takes a text file, written in a defined grammar, and parses the file to lexically analyze it. A GUI is then generated based on the grammer contained in the text file.
 
+_Note: The "Project-1 (Provided by Instructor)" folder contains the files I was supplied to be used as a template. The result being the "Project-1" project._
+
 ---
 ###### This project was assigned while attending University of Maryland University College (UMUC)
 ---
